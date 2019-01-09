@@ -1,4 +1,4 @@
-# AlexaSkillLambdaSkeleton
+# AlexaSkillNodeLambdaSkeleton
 
 Skeleton Project for Creating a NodeJS Lambda Alexa Skill!
 

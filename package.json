@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Skeleton package for an Alexa skill using NodeJS on Lambda",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-skill-local": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DerrickGold/AlexaSkillNodeLambdaSkeleton.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DerrickGold/AlexaSkillNodeLambdaSkeleton/issues"
+  },
+  "homepage": "https://github.com/DerrickGold/AlexaSkillNodeLambdaSkeleton#readme"
+}
